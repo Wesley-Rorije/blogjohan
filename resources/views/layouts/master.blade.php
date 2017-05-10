@@ -17,6 +17,7 @@
 
 
     <link rel="stylesheet" href="{{ URL::asset('/blog.css') }}">
+    <link href="/css/app.css" rel="stylesheet">
 
     <link href="/public/jquery-3.2.1.js">
 </head>
